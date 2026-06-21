@@ -55,9 +55,6 @@ ParaBankBDDFramework
 ├── test-data
 │   └── userData.js
 │
-├── reports
-├── screenshots
-│
 ├── cucumber.js
 ├── package.json
 ├── package-lock.json
