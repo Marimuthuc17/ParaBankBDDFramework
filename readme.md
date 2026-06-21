@@ -48,7 +48,13 @@ ParaBankBDDFramework
 │   ├── RegisterPage.js
 │   ├── LoginPage.js
 │   └── AccountPage.js
-│
+|
+│__screenrecording
+|   |__20260621-0630-51.3835147.mp4
+|
+|__ParaBankTestCases
+|  |___ParaBankTestCases.xlsx
+|
 ├── utils
 │   └── BrowserManager.js
 │
@@ -59,6 +65,7 @@ ParaBankBDDFramework
 ├── package.json
 ├── package-lock.json
 └── playwright.config.js
+|__readme.md
 ```
 
 ---
